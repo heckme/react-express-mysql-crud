@@ -1,0 +1,13 @@
+frontend/build
+frontend/node_modules
+
+log
+node_modules
+bin
+dist
+public
+views
+
+
+.git
+*.*~
